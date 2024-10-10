@@ -7,3 +7,5 @@ To fully explore the features of this responsive website, please refer to the vi
 #### Video Demo: https://youtu.be/arftp8kFBBg?si=pU7eM2Etf1tvjC4C
 
 I recommend watching the video demonstration first before downloading any files, as it will guide you through creating your own **package.json** file and other necessary steps. Follow the instructions, then download the files from this repo. Replace them in the appropriate folder, and you’ll be able to run the responsive website.
+
+Once you have the **node_modules** folder, you're all set to run this program built with Tailwind CSS.
